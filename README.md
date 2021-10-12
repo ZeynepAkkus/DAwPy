@@ -1,2 +1,2 @@
 # DAwPy
-this repo for DawPy lessons
+This repo is  for Data Analysis with Python
